@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663338628 source:c:\users\lucaa\onedrive\documentos\programacion\punteroafuncion\funciones.c
+	"header.h"
+
+1663338568 c:\users\lucaa\onedrive\documentos\programacion\punteroafuncion\header.h
+	<stddef.h>
+	<string.h>
+
+1663338861 source:c:\users\lucaa\onedrive\documentos\programacion\punteroafuncion\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
